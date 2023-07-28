@@ -29,3 +29,9 @@ body {
     font-weight: 100px;
     letter-spacing: 2px;
 }
+
+.source {
+    font-style: italic;
+    font-size: 10px;
+    margin-left: 20px;
+}
